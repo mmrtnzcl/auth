@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ioc</groupId>
-	<artifactId>m08_eac4</artifactId>
+	<artifactId>auth_project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>m08_eac4</name>
 	<description>Demo project for Spring Boot</description>
